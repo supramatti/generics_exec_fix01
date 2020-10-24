@@ -1,0 +1,13 @@
+C:\Dev\C#\generics_exec_fix01\generics_exec_fix01\obj\Debug\netcoreapp3.1\generics_exec_fix01.csprojAssemblyReference.cache
+C:\Dev\C#\generics_exec_fix01\generics_exec_fix01\obj\Debug\netcoreapp3.1\generics_exec_fix01.AssemblyInfoInputs.cache
+C:\Dev\C#\generics_exec_fix01\generics_exec_fix01\obj\Debug\netcoreapp3.1\generics_exec_fix01.AssemblyInfo.cs
+C:\Dev\C#\generics_exec_fix01\generics_exec_fix01\obj\Debug\netcoreapp3.1\generics_exec_fix01.csproj.CoreCompileInputs.cache
+C:\Dev\C#\generics_exec_fix01\generics_exec_fix01\bin\Debug\netcoreapp3.1\generics_exec_fix01.exe
+C:\Dev\C#\generics_exec_fix01\generics_exec_fix01\bin\Debug\netcoreapp3.1\generics_exec_fix01.deps.json
+C:\Dev\C#\generics_exec_fix01\generics_exec_fix01\bin\Debug\netcoreapp3.1\generics_exec_fix01.runtimeconfig.json
+C:\Dev\C#\generics_exec_fix01\generics_exec_fix01\bin\Debug\netcoreapp3.1\generics_exec_fix01.runtimeconfig.dev.json
+C:\Dev\C#\generics_exec_fix01\generics_exec_fix01\bin\Debug\netcoreapp3.1\generics_exec_fix01.dll
+C:\Dev\C#\generics_exec_fix01\generics_exec_fix01\bin\Debug\netcoreapp3.1\generics_exec_fix01.pdb
+C:\Dev\C#\generics_exec_fix01\generics_exec_fix01\obj\Debug\netcoreapp3.1\generics_exec_fix01.dll
+C:\Dev\C#\generics_exec_fix01\generics_exec_fix01\obj\Debug\netcoreapp3.1\generics_exec_fix01.pdb
+C:\Dev\C#\generics_exec_fix01\generics_exec_fix01\obj\Debug\netcoreapp3.1\generics_exec_fix01.genruntimeconfig.cache
